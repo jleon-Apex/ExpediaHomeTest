@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpediaHomeTest</string>
+    <string name="pokemon_name">Name: %1$s</string>
+    <string name="pokemon_height">Height: %1$d ft</string>
+    <string name="pokemon_order_number">Order Number: #%1$d</string>
+    <string name="pokemon_weight">Weight: %1$d lbs</string>
+</resources>
